@@ -1,0 +1,16 @@
+jupyter
+notebook
+streamlit
+imageio
+ffmpeg
+opencv-python
+torch
+torchvision
+torchaudio
+gdown
+matplotlib
+seaborn
+torchinfo
+nltk
+levenshtein
+pytorch-nlp
