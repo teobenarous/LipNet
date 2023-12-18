@@ -1,4 +1,5 @@
 # LipNet
+This model builds upon the great work originally introduced by Yannis M. Assael, Brendan Shillingford, Shimon Whiteson and Nando de Freitas, as detailed in their research paper (https://arxiv.org/abs/1611.01599). 
 LipNet is a model designed for lip-reading, integrating Convolutional Neural Networks (CNNs) with a Recurrent Neural Network (RNN) to effectively interpret lip movements. 
 The model utilizes 3D convolution layers to extract spatial features from video frames, emphasizing the shape and movement of the lips. 
 Following this, a bidirectional LSTM (Long Short-Term Memory) layer is employed to analyze the temporal aspects, tracking the progression and rhythm of lip movements over time. 
