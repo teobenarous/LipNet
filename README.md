@@ -29,7 +29,7 @@ To visualize how the model is performing using Streamlit, run the following comm
 
 By default, this will load the weights saved at the 200th epoch.
 
-
+https://github.com/teobenarous/LipNet/assets/96968228/a1098b13-9951-4e31-9abc-f26a5dfd6863
 
 ### Configuration
 The script `app.py` allows for the selection of model weights based on epoch numbers through a command-line argument.
