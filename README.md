@@ -36,6 +36,7 @@ https://github.com/teobenarous/LipNet/assets/96968228/a1098b13-9951-4e31-9abc-f2
 The script `app.py` allows for the selection of model weights based on epoch numbers through a command-line argument.
 There are four epoch options available: 50, 100, 150, and 200.
 The script is designed to accept an epoch number in two formats: either with `--epoch` or its short form `-e`. 
+
 To provide this argument, include an additional `--` to the `streamlit` command to separate Streamlit arguments from the script arguments.
 
 For example here's how to run the application with the weights saved at the 50th epoch:
