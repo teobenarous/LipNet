@@ -18,7 +18,7 @@ The best performing weights achieved the following accuracies:
 ### Setup
 #### Prerequisites
 * Python 3.9+
-* A `ffmeg` executable in `$PATH`
+* A `ffmpeg` executable in `$PATH`
 
 #### Install the dependencies
 `pip install -r requirements.txt`
